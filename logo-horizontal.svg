@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" role="img" aria-label="Cardinal Consultora">
+  <title>Cardinal Consultora</title>
+  <g transform="translate(8,8)">
+    <circle cx="32" cy="32" r="31" fill="none" stroke="#0B1F3A" stroke-width="2"/>
+    <polygon points="32,4 28,32 32,32" fill="#0B1F3A"/>
+    <polygon points="32,4 36,32 32,32" fill="#1E3A5F"/>
+    <polygon points="60,32 32,28 32,32" fill="#1E3A5F"/>
+    <polygon points="60,32 32,36 32,32" fill="#0B1F3A"/>
+    <polygon points="32,60 36,32 32,32" fill="#0B1F3A"/>
+    <polygon points="32,60 28,32 32,32" fill="#1E3A5F"/>
+    <polygon points="4,32 32,36 32,32" fill="#1E3A5F"/>
+    <polygon points="4,32 32,28 32,32" fill="#0B1F3A"/>
+    <circle cx="32" cy="32" r="3" fill="#107A6E"/>
+  </g>
+  <g transform="translate(86,0)">
+    <text x="0" y="42" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="30" fill="#0B1F3A">cardinal</text>
+    <text x="2" y="60" font-family="Helvetica, Arial, sans-serif" font-weight="500" font-size="10" fill="#5A6B7B" letter-spacing="4">CONSULTORA · MARKETING Y COMUNICACIÓN</text>
+  </g>
+</svg>
